@@ -13,7 +13,7 @@ In this module, we'll complete a guided exploratory data analysis project, then 
 This task will explore different data analysis points surrounding a CSV dataset composed of information related to Diamonds.
 
 # TASK 3
-This task will be focused on my domain of PUZZLES and willexplore different data analysis points surrounding a CSV dataset composed of information related to Video Game Sales.
+This task will be focused on my domain of PUZZLES and will explore different data analysis points surrounding a CSV dataset composed of information related to Video Game Sales.
 
 # BONUS
 The bonus section is contained with the Task 3 workbook, and provides a WordCloud of Video Game Publishers.
